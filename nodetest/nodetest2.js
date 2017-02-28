@@ -4,6 +4,7 @@ var fs = require("fs");
 
 var ImageTracer = require(__dirname +'/../imagetracer_v1.1.2');
 
+#https://github.com/michaelrhodes/get-image-data
 var image = require('get-image-data');
 
 
